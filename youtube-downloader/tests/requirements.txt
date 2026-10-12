@@ -1,0 +1,2 @@
+# Only needed for browser integration tests, not for running the downloader.
+playwright==1.62.0
